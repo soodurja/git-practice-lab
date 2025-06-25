@@ -1,1 +1,1 @@
-This line was changed in dev after feature/conflict-pr branched.
+This line includes edits from both dev and feature/conflict-pr.

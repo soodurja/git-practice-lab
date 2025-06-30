@@ -1,2 +1,2 @@
 This line includes edits from both dev and feature/conflict-pr.
-New line to check git stash.
+Adding both changes manually.
